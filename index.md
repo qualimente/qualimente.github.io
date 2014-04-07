@@ -10,6 +10,8 @@ QualiMente is a professional services firm that can help you:
 * build high-quality software
 * build an agile team
 * solve particularly-difficult performance, scalability, and reliability problems
+
+See the [services](services.html) page for more details.
     
 <ul class="posts">
   {% for post in site.posts %}
