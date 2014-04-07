@@ -11,11 +11,12 @@ pygments: true
 title : QualiMente
 tagline: A mind for Quality
 author :
-  name : Stephen Kuenzli
+  name : QualiMente, LLC
+  email : info@qualimente.com
   github : qualimente
 #  twitter : username
 #  feedburner : feedname
-#  email : blah@email.test
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
